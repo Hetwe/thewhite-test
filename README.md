@@ -1,5 +1,4 @@
-# thewhite-test
-
 # Установка
 
-### Windows
+### Linux
+Д
