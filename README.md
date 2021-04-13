@@ -1,5 +1,5 @@
 # thewhite-test
 
-#Установка
+# Установка
 
-###Windows
+### Windows
